@@ -1,0 +1,33 @@
+Qual o sinal da troca energética quando a energia flui para dentro do sistema?
+Qual o sinal da troca energética quando há emissão de energia pelo sistema?
+O que são movimentos internos de um todo?
+De um exemplo do que NÃO pode ser considerado um movimento interno.
+Como são denominadas as parcelas de conteúdo energético?
+Defina Energia Interna.
+Defina Energia de Forma Rígida.
+O que é um sistema fechado?
+Como são denominados os dois tipos de troca energética?
+A troca de calor pode ser efeturada entre energias de forma rígida?
+A troca de calor é uma transmissão de energia, ou um conteúdo do sistema, similar à temperatura?
+O Trabalho pode envolver quais tipos de energia?
+O que é um sistema isolado?
+Qual o enunciado da primeira Lei da Termodinâmica?
+O que o enunciado da primeira Lei da Termodinâmica implica para sistemas isolados?
+A energia interna é uma propriedade extensiva ou intensiva do sistema? Se extensiva, é aditiva?
+O trabalho e o calor são funções de processo ou de estado?
+O que é um processo isobárico?
+Qual a formula do trabalho volumetrico, caso o processo for isobárico?
+O que afirma a Segunda Lei da Termodinâmica?
+Qual a condição para poder se definir entalpia?
+O que é entropia?
+A entropia de um sistema isolado só aumenta/diminui a cada mudança.
+Qual a unidade da entropia?
+Qual a condição para poder se definir energia de helmholz?
+Qual a condição para poder se definir energia de Gibbs?
+O que é um processo termostatizado?
+Qual a equação da Energia de Heimholz(A)?
+Qual a equação da Entalpia(H)?
+Qual a equação da Energia de Gibbs(G)?
+Qual são as três formas e suas condições de ser obter a quantidade de subestados do sistema?
+
+fim

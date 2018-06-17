@@ -29,5 +29,12 @@ A Energia de Helmholtz é definida como: A = U − TS
 A Entalpia tem equação: H = U + PV
 A Energia de Gibbs tem equação: G = A + PV, sendo que A (Energia de Helmholtz) tem equação: A = U - TS. Portanto: G = U - TS + PV
 AINDA SEM RESPOSTA
-
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
+AINDA SEM RESPOSTA
 fim

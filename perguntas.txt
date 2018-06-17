@@ -29,5 +29,12 @@ Qual a equação da Energia de Heimholz(A)?
 Qual a equação da Entalpia(H)?
 Qual a equação da Energia de Gibbs(G)?
 Qual são as três formas e suas condições de ser obter a quantidade de subestados do sistema?
-
+Defina Fluxo
+O potencia químico é uma proriedade extensiva ou intensiva? Se extensiva, é aditiva?
+O que significa a especie quimica ter homogeneidade material?
+O que significa homogeneidade material do sistema?
+O que significa a especie quimica ser materialmente estacionária?
+O que significa o sistema ser materialmente estacionário?
+Defina Sistema em Equilibrio de Fases.
+O que um sistema em equilíbrio de fases implica em relação ao fluxo?
 fim

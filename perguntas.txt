@@ -30,7 +30,7 @@ Qual a equação da Entalpia(H)?
 Qual a equação da Energia de Gibbs(G)?
 Qual são as três formas e suas condições de ser obter a quantidade de subestados do sistema?
 Defina Fluxo de Especie Quimica
-O potencia químico é uma proriedade extensiva ou intensiva? Se extensiva, é aditiva?
+O potencial químico é uma proriedade extensiva ou intensiva? Se extensiva, é aditiva?
 O que significa a especie quimica ter homogeneidade material?
 O que significa homogeneidade material do sistema?
 O que significa a especie quimica ser materialmente estacionária?

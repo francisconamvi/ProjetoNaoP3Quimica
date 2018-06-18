@@ -15,7 +15,7 @@ O enunciado mais genérico e conceitual da primeira lei da termodinâmica afirma
 Para sistemas isolados, o enunciado da primeira Lei da Termodinâmica implica: 1º: Em um sistema isolado tanto a energia de forma rígida como a energia interna não se alteram no tempo. (Pensando, se o sistema isolado não tem troca alguma de energia entre o exterior e o sistema e, pelo enunciado da primeira lei, a energia interna e a energia de forma rígida não se transformam diretamente uma na outra, isso, de uma certa forma, intuitivo. Afinal, se nenhuma energia nova “entra” e uma energia não se mistura com a outra, ambas continuarão sempre constantes, sem perder ou ganhar nada.) A parcela Δwforma rígida (t), do trabalho total, produz a mudança ΔEformarígida (t)  no valor da energia de forma rígida e vice-versa. (Lembra sobre o calor ter peculiaridade física de não envolver energia de forma rígida, só envolvendo energia interna entre o exterior e o sistema? (se você não lembra, aperte CTRL + F e digite  A troca energética térmica’ e leia) Então, como a energia de forma rígida não pode ser alterada pelo calor e nem pela energia interna diretamente, a única coisa que poderá alterar a energia de forma rígida é o trabalho relacionado a ela (que ou se transforma nela, ou provém dela no sistema).
 Quando analisamos na definição de Energia Interna, temos que “o valor da energia interna pode, no máximo, ser conhecido a menos de uma constante somativa. Ou seja, é possível apenas ter o valor da diferença de energia interna do sistema entre dois instantes. Com isso, a Energia interna é uma propriedade extensiva aditiva.
 O trabalho e o calor são funções de processo.
-Se o processo for barostatizado e, também, baricamente homogêneo, ele será um processo isobárico.
+Um processo isobárico é aquele que mantém a temperatura homogênea e constante do início ao fim. Portanto, é um processo baricamente homogêneo e estacionário.
 O trabalho volumétrico em caso de processo isobárico é calculado como: Wv = −P.∆V Sendo que essa independe de imposições ao sistema nos instantes terminais do processo.
 A Segunda Lei da Termodinâmica afirma que: Todo sistema fechado poder-se-á alterar no tempo somente se for para atingir um estado com uma quantidade enormemente maior de sub-estados do que aquele em que o sistema inicialmente se encontrar. O estado provido de quantidade enormemente maior de sub-estados, entre todos os estados alcançáveis a partir do estado inicial e permitidos pelas condições às quais o sistema estiver submetido, é denominado estado estável do sistema, para o estado inicial e as condições dadas. Uma vez atingido o estado estável, este não mais se modificará, a não ser que as condições às quais o sistema se encontrar submetido mudem de modo a que o citado estado não mais seja estável.
 Apenas em sistemas baricamente homogêneos a entalpia é bem definida, além de que o sistema deve ser isolado.
@@ -28,14 +28,14 @@ Num processo termostatizado o sistema é termostatizado, na temperatura T’’ 
 A Energia de Helmholtz é definida como: A = U − TS
 A Entalpia tem equação: H = U + PV
 A Energia de Gibbs tem equação: G = A + PV, sendo que A (Energia de Helmholtz) tem equação: A = U - TS. Portanto: G = U - TS + PV
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
-AINDA SEM RESPOSTA
+(A COMPLETAR) 1 - Quando um sistema for fechado, fixados o valor de T homogêneo e seu volume constante, se o sistema não trocar potência não-volumétrica com o exterior o simétrico da energia de Helmholtz (A) é a quantidade de sub-estados correspondentes a cada estado. 2 - Analogamente, fixados T homogêneo, P homogêneo a volume constante, se o sistema não trocar potência não volumétrica com seu exterior o simétrico da energia de Gibbs (G) é a quantidade de sub-estados correspondentes a cada estado do sistema.
+Fluxo de uma espécie química é a diferença da ordem do valor da constante de Avogadro entre a quantidade de partículas da espécie que atravessam uma superfície imaginária em um sentido e a quantidade que atravessa seu sentido oposto.
+Potencial químico u(j) é uma propriedade instensiva da espécie química W(j).
+O seu potencial químico tem que ser igual em todos os seus pontos num instante t.
+Quando o sitema for materialmente homogêneo em relação a todas suas espécies químicas (quando todas espécies forem materialmente homogênea).
+Quando a tendência de alteração do seu potencial químico for nula. (derivada do potencial = 0). 
+Quando o mesmo for materialmente estacionário em relação a todas as suas espécies químicas (todas tiverem derivado do potencial = 0).
+Sistema em equilíbrio de fases se este for termobarica e materialmente homogêneo.
+Sem nenhum obstáculo entre quaisquer dois pontos do sistema, se este estiver em equilíbrio de fases, o fluxo de todas as suas espécies químicas será nulo
+Todo processo ITBEF é TBS, pois mantém a temperatura e pressão homogênea e estacionária ao longo do processo, se igualando ao TBS nos instantes terminais pelo fator temperatura e pressão e tbm ao fator Equilíbrio de Fases pela imposição do EFEIT. Mas o contrário não é verdade, pois a temperatura e a pressão (assim como o equilibrio de fases), ao longo do processo, podem variar no TBS mantendo a fronteira com o mesmo P e T em todos os seus pontos.
 fim
